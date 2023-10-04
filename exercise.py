@@ -55,3 +55,4 @@ print(word.find('e'))
 print(word_two.find('e'))
 
 x = 'cookies'
+y = 'milk'
