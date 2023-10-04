@@ -53,3 +53,5 @@ word_two = 'tree'
 
 print(word.find('e'))
 print(word_two.find('e'))
+
+x = 'cookies'
